@@ -1,3 +1,6 @@
 [submodule "broker-service"]
 	path = broker-service
 	url = https://github.com/zoe606/broker-service
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/zoe606/go-front-end
