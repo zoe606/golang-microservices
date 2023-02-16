@@ -4,3 +4,15 @@
 [submodule "front-end"]
 	path = front-end
 	url = https://github.com/zoe606/go-front-end
+[submodule "authentication-service"]
+	path = authentication-service
+	url = https://github.com/zoe606/go-auth-service
+[submodule "listener-service"]
+	path = listener-service
+	url = https://github.com/zoe606/go-listener-service
+[submodule "logger-service"]
+	path = logger-service
+	url = https://github.com/zoe606/go-logger-service
+[submodule "mail-service"]
+	path = mail-service
+	url = https://github.com/zoe606/go-mail-service
