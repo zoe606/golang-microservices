@@ -16,9 +16,9 @@
 
 # Dependency directories (remove the comment below to include it)
  vendor/
- project/db-data/mongo/*
- project/db-data/rabbitmq/*
- project/db-data/postgres/*
+ project/db-data/mongo
+ project/db-data/rabbitmq
+ project/db-data/postgres
 
 # Go workspace file
 go.work
